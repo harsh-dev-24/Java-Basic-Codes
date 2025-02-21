@@ -13,6 +13,8 @@ public class IterateList {
 		iterateList(input2);
 
 	}
+	
+//	Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.
 
 	private static <T> void iterateList(List<T> list) {
 
