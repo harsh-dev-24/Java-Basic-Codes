@@ -7,7 +7,7 @@ public class FindDuplicateChars {
 
 	public static void main(String[] args) {
 
-		String input = "swiss";
+		String input = "Swiss";
 
 		findDupCharsInString(input);
 
