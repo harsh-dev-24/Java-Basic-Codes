@@ -16,35 +16,33 @@ This repository is designed to help **developers, testers, and beginners** impro
 
 ---
 
-## Java Most Asked Coding Questions for Interviews  
-
-1. Reverse a String without using String inbuilt function  
-2. Swap two numbers without using a third variable  
-3. Count the number of words in a string using HashMap  
-4. Iterate HashMap using While and Advanced For Loop  
-5. Check if a number is Prime in the most efficient way  
-6. Check if a string or number is a Palindrome  
-7. Fibonacci series using Recursion  
-8. Iterate ArrayList using for-loop, while-loop, and advanced for-loop  
-9. Find duplicate characters in a string  
-10. Find the second-highest number in an array  
-11. Check if a number is an Armstrong number  
-12. Remove all white spaces from a string without using `replace()`  
-13. Find two numbers in an array that add up to a target value  
-14. Sort and concatenate comma-separated strings  
-15. Check if all characters in a string have the same frequency  
-16. Remove all occurrences of a value from an array in-place  
-17. Sum of even numbers after applying queries on an array  
-18. Find all start indices of anagrams of a string in another string  
-19. Find the length of the longest substring without repeating characters  
-20. Merge two sorted linked lists into one sorted list  
-21. Rotate a 2D matrix by 90 degrees clockwise  
-22. Find the missing number in an array of consecutive integers  
-23. Find the majority element in an array (appears more than n/2 times)  
-24. Reverse words in a sentence while keeping word order intact  
-25. Find the first non-repeating character in a string  
+## [🔥 Java Most Asked Coding Questions for Interviews 🚀](https://github.com/harsh-dev-24/Java-Basic-Codes/tree/main/InterviewPrograms/src/common/java/codes/mostasked)  
+ 
+- Reverse a String without using String inbuilt function  
+- Swap two numbers without using a third variable  
+- Count the number of words in a string using HashMap  
+- Iterate HashMap using While and Advanced For Loop  
+- Check if a number is Prime in the most efficient way  
+- Check if a string or number is a Palindrome  
+- Fibonacci series using Recursion  
+- Iterate ArrayList using for-loop, while-loop, and advanced for-loop  
+- Find duplicate characters in a string - Find the second-highest number in an array  
+- Check if a number is an Armstrong number  
+- Remove all white spaces from a string without using `replace()`  
+- Find two numbers in an array that add up to a target value  
+- Sort and concatenate comma-separated strings  
+- Check if all characters in a string have the same frequency  
+- Remove all occurrences of a value from an array in-place  
+- Sum of even numbers after applying queries on an array  
+- Find all start indices of anagrams of a string in another string  
+- Find the length of the longest substring without repeating characters  
+- Merge two sorted linked lists into one sorted list  
+- Rotate a 2D matrix by 90 degrees clockwise  
+- Find the missing number in an array of consecutive integers  
+- Find the majority element in an array (appears more than n/2 times)  
+- Reverse words in a sentence while keeping word order intact  
+- Find the first non-repeating character in a string 
 
 ---
 
-💡 **Tip:** Practice these problems regularly to improve your problem-solving skills for Java interviews.  
-
+#### 💡 **Tip:** Practice these problems regularly to improve your problem-solving skills for Java interviews.  
