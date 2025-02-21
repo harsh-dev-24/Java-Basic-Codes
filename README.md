@@ -18,9 +18,9 @@ This repository is designed to help **developers, testers, and beginners** impro
 
 ## [🔥 Java Most Asked Coding Questions for Interviews 🚀](https://github.com/harsh-dev-24/Java-Basic-Codes/tree/main/InterviewPrograms/src/common/java/codes/mostasked)  
  
-- Reverse a String without using String inbuilt function  
-- Swap two numbers without using a third variable  
-- Count the number of words in a string using HashMap  
+- [Reverse a String without using String inbuilt function](https://github.com/harsh-dev-24/Java-Basic-Codes/blob/main/InterviewPrograms/src/common/java/codes/mostasked/ReverseString.java)  
+- [Swap two numbers without using a third variable](https://github.com/harsh-dev-24/Java-Basic-Codes/blob/main/InterviewPrograms/src/common/java/codes/mostasked/SwapTwoNumbersWithoutThird.java) 
+- [Count the number of words in a string using HashMap](https://github.com/harsh-dev-24/Java-Basic-Codes/blob/main/InterviewPrograms/src/common/java/codes/mostasked/CountWordsInString.java)  
 - Iterate HashMap using While and Advanced For Loop  
 - Check if a number is Prime in the most efficient way  
 - Check if a string or number is a Palindrome  
